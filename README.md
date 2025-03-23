@@ -38,5 +38,5 @@ The dataset used for this project is included in the repository as `heart_diseas
 ```bash
 git clone https://github.com/WebifyWithParth/HeartDiseasePrediction.git
 
- License
+##License
 This project is open-source and free to use for educational purposes
