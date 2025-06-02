@@ -6,7 +6,7 @@ This project is a simple machine learning web application that predicts the pres
 ## Features  
 - Predict heart disease based on input features  
 - Displays model accuracy on training and test datasets  
-- Showcases dataset overview and predictions interactively  
+- Showcases dataset overview and predictions interactively
 - Lightweight and easy-to-run web application  
 
 ## Tech Stack  
