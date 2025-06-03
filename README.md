@@ -30,7 +30,7 @@ The dataset used for this project is included in the repository as `heart_diseas
 - Exercise-induced angina  
 - Oldpeak  
 - Slope, ca, and thal values  
-- Target (presence or absence of heart disease)  
+- Target (presence or absence of heart  disease)  
 
 ## How to Run the Project  
 
