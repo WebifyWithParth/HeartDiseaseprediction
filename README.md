@@ -1,4 +1,4 @@
-# Heart Disease Prediction Model  
+ Heart Disease Prediction Model  
 
 # Overview 
 This project is a simple machine learning web application that predicts the presence of heart disease based on user input. The model is trained using logistic regression and deployed using **Streamlit**.  
